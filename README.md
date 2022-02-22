@@ -36,5 +36,27 @@ I needed to approach the client on what type of server we would be using for the
 How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
 I approached the design document and software using the tools I learned through the course. I think if I was to work in this field again, I would talk more to the client, and use what I had learned at that point to make more meaningful desisions. I am still learning the skills needed before I can write a design document to a level of quality I would like. The more I learn in my studies, the more my design document will reflect that, and be more useful with less revisions.
 
+# CS-255 System Analysis and Design
+
+Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
+
+The DriverPass project consists of a company that wished to create a driving school, with an application to manage students user accounts, study material and the ability for customers to set up driving appointments. This program also was to be used for the employees of the company to manage driving times and customers. This project was meant to teach how to approach design documents and handling requirements set forth by the customer of our software development company.
+
+What did you do particularly well?
+
+I feel like I communicated by ideas well within my UML diagrams. I learned a lot about the creation of design documents and UML diagrams of different types. I think my best work was with the readability of my diagrams, and knowing how much information to in include on each.
+
+If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+
+I would like to learn better ways of communicating my ideas through presentations. In the last project we worked with powerpoint slides to convey our idea of the project to the customer. I felt like I did a good job, but I think I need to learn more about how interactions with these types of customers work, and what they expect in such a meeting.
+
+How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
+
+Throughout this class, I read over the interview transcript with the customer dozens of times. This was very useful for me when designing the system. I liked having that meeting in a form that I could go back to and reference to make sure and get everything exactly how the customer wanted the system to work. I think in the end, you really need to meet as many of the customer's goals as possible, and notifiy them if for any reason you can't meet them. Getting this back and forth feedback midway through a project is going to produce the best quality product.
+
+How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
+
+I think reviewing the custmoers goals was the first and biggest step. From there on, brainstorming and iterating through my ideas, while getting them on paper helped build out the program I wanted to make. Each time I designed a diagram and design document, I had a better idea of what the end product would be. In the end, while these desgin documents help as a reference material, just the process of creating them helps me understand the flow of the program better.
+
 
 
