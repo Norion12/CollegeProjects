@@ -58,5 +58,17 @@ How do you approach designing software? What techniques or strategies would you 
 
 I think reviewing the custmoers goals was the first and biggest step. From there on, brainstorming and iterating through my ideas, while getting them on paper helped build out the program I wanted to make. Each time I designed a diagram and design document, I had a better idea of what the end product would be. In the end, while these desgin documents help as a reference material, just the process of creating them helps me understand the flow of the program better.
 
+#[CS-250 Software Development Lifecycle
 
+How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+
+In this course, I reviewed a end user focus group. Within this focus group the members talked about what they would like to see in the end product. Not only did they answer questions about the product, but they expanded upon ideas of others in what would make a good product. From these wants, I was able to create "user stories". These were able to sum up what the customer wanted, what it required of the program, and what purpose it was to serve. Through common language, it is easier to see the requirements written in a way that really describes what that part of the program is meaning to accomplish, and not just what needs to be added to the program. This, I think really helps the programmer understand why they are adding a feature and to what purpose. Not only does this increase clarity, but it helps identify problems in logic early.
+
+How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
+
+When developing programs there are many methods to structure work done, and how it is allocated to different employees. The "Waterfall" approach was once king, but now more and more companies are moving to an "Agile" mindset. Instead of having rigid requirements that are followed in order, with a final product given to the customer in the end, agile works in an iterative process, refining the product over time, and giving the customer updates regularly. I fell that in most cases I would use the agile approach when I can, as it seems to really cut down on fully developed parts of a program that are unneeded, time taken to spot mistakes, and gives the customer a chance to make changes and adress faults in the program early, saving time and money.
+
+What does it mean to be a good team member in software development?
+
+I think that a good team member will be open with their fellow programmers. Not only to let coworkers know your progress, so they can better understand how a project is progressing, but also to ask for help when needed. I think a very hard thing for some people is asking for help. Most people would rather figure out a problem themselves, but in a company setting, asking for help early can save time and money on a project. Keeping this open communication with your team members is both good for you, and for the health of the team and the project.
 
