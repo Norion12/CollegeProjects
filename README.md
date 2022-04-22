@@ -58,7 +58,7 @@ How do you approach designing software? What techniques or strategies would you 
 
 I think reviewing the custmoers goals was the first and biggest step. From there on, brainstorming and iterating through my ideas, while getting them on paper helped build out the program I wanted to make. Each time I designed a diagram and design document, I had a better idea of what the end product would be. In the end, while these desgin documents help as a reference material, just the process of creating them helps me understand the flow of the program better.
 
-#[CS-250 Software Development Lifecycle
+# CS-250 Software Development Lifecycle
 
 How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
 
