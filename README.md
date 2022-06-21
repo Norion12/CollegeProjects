@@ -72,3 +72,26 @@ What does it mean to be a good team member in software development?
 
 I think that a good team member will be open with their fellow programmers. Not only to let coworkers know your progress, so they can better understand how a project is progressing, but also to ask for help when needed. I think a very hard thing for some people is asking for help. Most people would rather figure out a problem themselves, but in a company setting, asking for help early can save time and money on a project. Keeping this open communication with your team members is both good for you, and for the health of the team and the project.
 
+# CS-300 Data Structures and Algorithms
+
+What was the problem you were solving in the projects for this course?
+
+In this course we covered different data structures and how to evaluate them for runtime efficiency. Using Big O notations we covered many different storage methods, sorts, and structures and tried to find out which ones were the best suited for certain programs.
+
+How did you approach the problem? Consider why data structures are important to understand.
+
+I did a lot of research on my own, watching videos on how the different data structures worked, videos were very helpful in understanding how the sorts were moving through the data. Data structures are important to understand at a base level because they can affect how well a program runs. Picking a sort algorithm that is efficient verses one that is not can make the difference between a bad program and a good one.  While both can work, one will run better than the other, and at certain data loads, may not work on a system depending on how inefficient the algorithm is.
+
+How did you overcome any roadblocks you encountered while going through the activities or project?
+
+When I got stuck, which happened many times in this course, I looked up as many videos and tutorials online as I could. Also, when I got stuck coding, taking a break from the code and coming back later always worked well in keeping me moving forward.
+
+How has your work on this project expanded your approach to designing software and developing programs?
+
+I think this course more than any other so far has helped me understand writing code at a deep level. This class was very challenging, but I feel like I can write in C++ much better now. In the future I cannot comfortably say which data structures would suit a project, and I now can also check runtime for inefficiencies.
+
+How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?
+
+I learned how to write better pseudocode and developed my style of commenting within the code. I feel like my work is not only more and more functional, but also can be read better by anyone else working on code with me.
+
+
