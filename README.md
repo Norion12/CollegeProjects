@@ -94,4 +94,46 @@ How has your work on this project evolved the way you write programs that are ma
 
 I learned how to write better pseudocode and developed my style of commenting within the code. I feel like my work is not only more and more functional, but also can be read better by anyone else working on code with me.
 
+# CS-305 Data Software Security
 
+Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?
+
+Artemis Financial was a company that wanted to create a fincial guidance website that managed various types of investments. This was to be provided by a web application with high security.
+
+What did you do particularly well in identifying their software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall wellbeing?
+
+I think that I was able to determine baseline vulnerabilities well with the Maven dependancy check. This tool helped me find most of the issues with this program's core building blocks. I feel like this along with good coding practices and contant testing helps maintain secure code. Keeping th code clean, with great formatting and commenting also in the end helps security becuase the code is more readable and updateable. In this company's line of work, software secuirty is paramount, as the data in this program is very sensitive. 
+
+What about the process of working through the vulnerability assessment did you find challenging or helpful?
+
+It took a bit to learn what to look for in secuirty flaws, and I feel like the more I practice the more I will learn what major points to look for. Keeping an eye out in general for security flaws will now be a part of my coding ethic.
+
+How did you approach the need to increase layers of security? What techniques or strategies would you use in the future to assess vulnerabilities and determine mitigation techniques?
+
+Looking up information on the type of program helped me understand what steps needed to be taken, and in a worse-case senerio shows the points of failure in a program. Mitigan techniques follow this line of thinking, and completeness is key.
+
+How did you ensure the code and software application were functional and secure? After refactoring code, how did you check to see whether you introduced new vulnerabilities?
+
+To check for new vulnerabilites, I ran a maven dependancy check before and after the code was added. This allowed me to get a general look over of the code and make sure no new issues were added.
+
+What resources, tools, or coding practices did you employ that you might find helpful in future assignments or tasks?
+
+I like the maven dependency check, also keeping my commenting and formatting in a good place would help security as a whole. This and research, as knowing the failure points of a system is important before you start coding a project.
+
+Employers sometimes ask for examples of work that you have successfully completed to demonstrate your skills, knowledge, and experience. What from this particular assignment might you want to showcase to a future employer?
+
+I would show the ability to answer and complete questions, while recognizing flaws in the testing methodology. In this instance, while the project was finished as asked for, there are a lot of problems with this code base that would absolutely need to be fixed for a real world example. Even though this is not a part of the project, I included notes at the end to make sure it is known that there are still security problems with this code base. This is mainly becuase the code base is very old, and since it was written, many vulnerabilites have cropped up in the codebase's framework. Most of these can be fixed with version updates, but serious flaws remain. I want to make sure that I state these things when I see them, and not gloss over just becuase it isn't part of the work I was given.
+
+# CS-320 Software Testing and Automation
+
+How can I ensure that my code, program, or software is functional and secure?
+
+Secure and function software I feel is measured by testing, and testing often.  Unit testing as code is bieng written and keepig good coding practices through a project will help find bugs early, and really remove extra work later, also known as technical debt. Using this testing methodology in all work I feel will really shine through and create better and faster work. Along with completeness and full suite of tests, good commenting and formating can make viewing, changing and reading code easier and save time.
+
+How do I interpret user needs and incorporate them into a program?
+
+Looking at not only what is needed to fulfill a requirement list, but also what that entails in security and testing to get there is key. Knowing that your program fulfills all requirements in a functional way is also important. DevOps and DevSecOps pipelines are more and more common and the more you learn about testing techniquites, the better you can apply them to your daily work.
+
+How do I approach designing software?
+
+When working with a new project, I start by reading the requirements over serveral times. I then do some research on the type of program, and what problems may come up. After getting a good handle on the project, I will create an architecture, then start coding in small section. After each section has enough meat to test the code, I will develop unit tests, test the code, then move to the next segement. After doing this throughout the build, I combine the code and do inigration testing. I learned a lot from this class, and I think thse testing methodologies will stick with me my entire carrer.
