@@ -152,7 +152,7 @@ How can computer science help me in reaching my goals?
 
 In this course, I learned about game engine and shader design, and I feel like most of my experience gained is working with existing code and working though the though process of the original code writer. While useful, many other programs provide 3d element and mesh generation tools that make hard coding in verticies and functions obsolete. I do appreciate my new found knowledge on the inner workings of the OpenGL framework and how, on a granular level, OpenGL works. I feel that this knowledge will help me in the future, whether or not I work in graphics in the future.
 
-#CS-340 Client/Server Development
+# CS-340 Client/Server Development
 
 How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
 
