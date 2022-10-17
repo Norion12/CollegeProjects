@@ -137,3 +137,18 @@ Looking at not only what is needed to fulfill a requirement list, but also what 
 How do I approach designing software?
 
 When working with a new project, I start by reading the requirements over serveral times. I then do some research on the type of program, and what problems may come up. After getting a good handle on the project, I will create an architecture, then start coding in small section. After each section has enough meat to test the code, I will develop unit tests, test the code, then move to the next segement. After doing this throughout the build, I combine the code and do inigration testing. I learned a lot from this class, and I think thse testing methodologies will stick with me my entire carrer.
+
+# CS-330 Comp Graphic and Visualization
+
+How do I approach designing software?
+
+In this class, I gained knowledge in shader creation and was able to practice my design skills by planning a 3d scene and implementing methods to create the best possible representation of my scene within OpenGL. With this project, we worked with a small bit of sample code and built out a 3d scene by hard coding 3d objects into the scene and rendering the scene within a world. With camera, lighting and movement coding we are able to look around the scene and view the models. In this project I had to plan each object and how it would be implimented, and for that creating functions that could be reused within the project to create multiple objects.
+
+How do I approach developing programs?
+
+Within this project I iterated through reviesions of my project to create the final scene by adding elements, lighting, texture and movement. I started with a basic 3d world, added simple objects, then textured these objects. Working with lighting and normals to create realistic lighting and reflections, and finally to bring all of these together into one program. Throughout the course, I went back and improved previous code to make it more modular and well organized. The more I learned, the more I applied to code I had already completed. In the end, my code was much different, but worked better and I had a better understanding of the OpenGL framework.
+
+How can computer science help me in reaching my goals?
+
+In this course, I learned about game engine and shader design, and I feel like most of my experience gained is working with existing code and working though the though process of the original code writer. While useful, many other programs provide 3d element and mesh generation tools that make hard coding in verticies and functions obsolete. I do appreciate my new found knowledge on the inner workings of the OpenGL framework and how, on a granular level, OpenGL works. I feel that this knowledge will help me in the future, whether or not I work in graphics in the future.
+
