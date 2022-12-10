@@ -166,3 +166,30 @@ Within this projeect, I used many different APIs. Starting with MongoDB, learnin
 What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
 
 I think that computer scientists look to create a product that meets the requirements that the client asked for, and expand upon these when it makes since. Bieng able to understand what your customer wants is important, and not just to add what they ask for. In this case, I feel that checking back with the customer regularly would help expand the quality of the program and help the client better use the end product. In the end, this project provided a good way for the customer to navigate the large amount of data they were given, so that they can spend more time training dogs, and less time sifting through a massive database. This type of control over data really does help in the end, and makes a massive list of data a usefull and consise tool to do real work.
+
+# CS-465 Full Stack Development 1
+
+Architecture - Compare and contrast the types of frontend development you used in your full stack project, including Express HTML, JavaScript, and the single-page application (SPA).
+
+Through this course, I learned about the different approaches to developing and deploying a web page. In this course, we created a client facing webpage with Express HTML, using the normal backend server and front end client. I also worked with Angular to create a Single Page Application which ran the majority of the heavy lifting from the client computer. Through the whole process, I used Javascript to create a working set of pages, both with its own advantages and disadvantages. SPAs are easier on the server and snappy, but are harder for search engines to read currently.
+
+Architecture - Why did the backend use a NoSQL MongoDB database?
+
+The backend used MongoDB, a NoSQL database. This is much easier to work with in my opinion than SQL, with much more lax restrictions on data storage. This allows for more robust saving of data and with Mongoose, used in this class, is easy to work with and manage without SQL Scemas.
+
+Functionality - How is JSON different from Javascript and how does JSON tie together the frontend and backend development pieces?
+
+JSON is the easy to understand format used to store data in our MongoDB database, all values are stored in value pairs. This allows easy read from javascript and storage within MongoDB.
+
+Functionality - Provide instances in the full stack process when you refactored code to improve functionality and efficiencies, and name the benefits that come from reusable user interface (UI) components.
+
+The main piece of functionality I enjoyed in the project was the encapsulation of resources. With a good structure, making changes to the code were much easier. Each part of the full stack process can work well together with a good file structure and setup. When you neeed to adjust a certian page, just going to that page's html and ts files makes updating easy. Once the CRUD methods were setup in the backend, working with the code in the front end becomes easier, just reusing these calls, and working with modularity in mind.
+
+Testing - Methods for request and retrieval necessitate various types of API testing of endpoints, in addition to the difficulties of testing with added layers of security. Explain your understanding of methods, endpoints, and security in a full stack application.
+
+I found the use of Postman to help with understanding how the website is structured and how calls to the API are made. Understanding the endpoints and creating a unit diagram helped me understand how the site was laid out and what calls should go where. Once the login security was implemented, adding these methods to check along with each method call was easy, letting me use this in many different places at once.
+
+Reflection - How has this course helped you in reaching your professional goals? What skills have you learned, developed, or mastered in this course to help you become a more marketable candidate in your career field?
+
+This class was well laid out, with great videos and explinations. Along with furthering my understanding of Javascript, understanding middleware and the full stack development process will definately help me in the future. I found this coding to be fun, and I may choose to work in this field in the future. I like the flexibilty of Javascript and using the middleware to do mundane tasks. Using these different middleware tools and APIs along the way has really shown me the depth of the field and how many different tools there are, along with the confidence that I can learn new tools quickly and use them in my work.
+
