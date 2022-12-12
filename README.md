@@ -193,3 +193,30 @@ Reflection - How has this course helped you in reaching your professional goals?
 
 This class was well laid out, with great videos and explinations. Along with furthering my understanding of Javascript, understanding middleware and the full stack development process will definately help me in the future. I found this coding to be fun, and I may choose to work in this field in the future. I like the flexibilty of Javascript and using the middleware to do mundane tasks. Using these different middleware tools and APIs along the way has really shown me the depth of the field and how many different tools there are, along with the confidence that I can learn new tools quickly and use them in my work.
 
+# CS-360 Mobile Architect & Programming
+
+Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
+
+In this course, we were to choose an app to develop. My app was an inventory app designed to track inventory in a store or warehouse. This app was to allow for different users, and have a register and login screen followed by an inventory of items. The user needs to be able to add items, change the amount in stock and delete items. Additionally, the user can turn on permissions for the app to send a reminder SMS message when the stock of an item reaches 0. While good for use in inventory, this could also be used as a grocery list or any itemized list that also needs an amount attached to the item.
+
+What screens and features were necessary to support user needs and produce a user-centered UI for the app? How did your UI designs keep users in mind? Why were your designs successful?
+
+My goal was to have 3 screens, or Activities. This is so that most things can be done without going back and forth between pages. I wanted to keep all functionality of the inventory screen within that screen, and nothing is hidden. I wanted to have it set up this way so there is no confustion or submenus, and all the information the user needs is in one place. I feel like this would need to change with more features, but for a simlpe app the clean UI is something I was aiming for.
+
+How did you approach the process of coding your app? What techniques or strategies did you use? How could those be applied in the future?
+
+This project was different than most of my other projects, in that we were given free reign on creating the app from the ground up. I did a lot of planning and watching tutorials before desiding on how to approach the coding. While hard, using and understanding code bases, and converting and changing them to my needs helped me get to a good end product. The one thing I did throughout and that saved me a lot of time was writing code in chunks, testing, then moving on. Making sure everything is working well before moving on helped elimnate more complex bugs.
+
+How did you test to ensure your code was functional? Why is this process important and what did it reveal?
+
+For testing I did white box testing, and becuase the app was simple, I did not automate this testing. In a more in-depth project, I would definately need to add automated JUnit testing and run this after all changes. In this case, I was working in small chunks, or modules, so I could do most testing as I went and only did a full test run along the way at major milestones. This kept the code clean, and I think this was the way to go for this project.
+
+Considering the full app design and development process, from initial planning to finalization, where did you have to innovate to overcome a challenge?
+
+When I ran into the inital listing of items, which was the hardest part to code, the class wanted us to use gridview for our layout. After looking and reading I decided gridview was not the way I wanted to have the items displayed and listview seemed like a better option. I went with listview, which did complicate things a bit. I wanted buttons on each line, and it took awhile to figure out how to have multiple buttons align to and interact with fields only on thier line. Even though this was a much harder aproach, I think in the end the app is much more usable, and really works the way I want it to.
+
+In what specific component from your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?
+
+I am most proud of the Inventory page, or Activity. I made sure that the page updated without animations when changes were made and that it was responsive and the button layout made sense. I do feel that if I handed anyone my app, the could fully use it with out any knowledge. Following design element layouts that are familiar with an easy to understand layout is something I think I did well. 
+
+
