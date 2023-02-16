@@ -219,4 +219,22 @@ In what specific component from your mobile app were you particularly successful
 
 I am most proud of the Inventory page, or Activity. I made sure that the page updated without animations when changes were made and that it was responsive and the button layout made sense. I do feel that if I handed anyone my app, the could fully use it with out any knowledge. Following design element layouts that are familiar with an easy to understand layout is something I think I did well. 
 
+# CS-370 Current/Emerging Trends in CS
+
+Briefly explain the work that you did on this project: What code were you given? What code did you create yourself?
+
+In this course, I develped an AI Model to solve a maze using the tensorflow library and tools. The class provided base code for functinality, the environment, and rules to the game. I developed the steps taken by the agent each epoch, and how much exploration vs. explotation was done by the agent each epoch. 
+
+Connect your learning from throughout this course to the larger field of computer science:
+What do computer scientists do and why does it matter?
+
+Computer Scientists use programming to solve problems, and in the class we learned how developing AI agents to solve problems can both solve and create problems. This class introduced us to the ethical implications of using AI models to make decisions, and where to look to make sure our programings are solving more problems than they create.
+
+How do I approach a problem as a computer scientist?
+
+I feel that the first step of solving a problem as a computer scientist is do determine the best tool for this job. In this case there are a plethora of different choises in AI models alone, let alone the choises of solving a problem by use of other algorithms than AI. Finding the best fit for a program I believe is the most important step. After this, developing the code and refining your project are important, but if you start with the wrong tool, this could make the entire project harder than it needs to be.
+
+What are my ethical responsibilities to the end user and the organization?
+
+This course, as with many others, enforces the fact that my ethical choices and responsibilites do not just stop at my intentions, but what the program could do if in the hands of a less reputable company or end user. The full scope of a programs capabilite both for the intended problem, and for any other application it could be used for must be considered when developing. Above all sufficient testing must occcur after the project is completed, and this step should not be taken lightly.
 
